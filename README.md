@@ -2,7 +2,14 @@
 
 ## Basics
 
+
+
+
+
+---
+
 ## Kubernetes: Monitoring with Prometheus
+
 [Notes from LinkedIn course](https://www.linkedin.com/learning/kubernetes-monitoring-with-prometheus/logging-vs-monitoring)
 
 > In order to prevent outages, it's essential that you leverage a monitoring and alerting tool in your Kubernetes environment. Prometheus—an open-source systems monitoring and alerting toolkit—pairs particularly well with Kubernetes. In this course, learn how this toolkit integrates with Kubernetes and works to monitor distributed systems.
