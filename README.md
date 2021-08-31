@@ -4,7 +4,10 @@
 
 
 
+**Resources**
 
+[Cloud-Native repo - Docker & K8s notes](https://github.com/mguery/cloud-native#lesson-3-container-orchestration-with-kubernetes)
+[DevOps Notes - Kubernetes](https://github.com/bregman-arie/devops-exercises#kubernetes)
 
 ---
 
@@ -25,6 +28,4 @@ from promoperator.yml file - creating accounts, roles, binding. `kube control cr
 [verbs: "\*"] = * all verbs (can create, read, watch, update, delete)
 
 create service endpoints - exposes tools like Prom to other apps
-
-**Prometheus basics**
 
