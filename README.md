@@ -6,8 +6,8 @@
 
 **Resources**
 
-[Cloud-Native repo - Docker & K8s notes](https://github.com/mguery/cloud-native#lesson-3-container-orchestration-with-kubernetes)
-[DevOps Notes - Kubernetes](https://github.com/bregman-arie/devops-exercises#kubernetes)
+- [Cloud-Native repo - Docker & K8s notes](https://github.com/mguery/cloud-native#lesson-3-container-orchestration-with-kubernetes)
+- [DevOps Notes - Kubernetes](https://github.com/bregman-arie/devops-exercises#kubernetes)
 
 ---
 
